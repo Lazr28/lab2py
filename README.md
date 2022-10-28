@@ -81,10 +81,13 @@ dan akan menggunakan fungsi input pada program yang akan kita buat
 \
 buka aplikasi IDLE\
 kemudian buat file baru dengan nama `latihan3.py`\
-(pastikan file tersebut tersimpan di folder lab2py)
+(pastikan file tersebut tersimpan di folder lab2py)\
+
+untuk menginput 
+
 
 \
-kita akan gunakan sintaks berikut
+kita akan gunakan sintaks berikut pada latihan ke 3:
 
 ```
 # input nilai variabel
