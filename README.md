@@ -19,6 +19,7 @@ setelah selesai menginstall kita melanjutkan ke latihan pada materi.
 
 ## Latihan 1
 
+
 buka cmd / powershell
 lalu ketikan `python` kemudian enter
 
@@ -83,8 +84,11 @@ buka aplikasi IDLE\
 kemudian buat file baru dengan nama `latihan3.py`\
 (pastikan file tersebut tersimpan di folder lab2py)\
 
-untuk menginput 
+untuk menggunakan fungsi input untuk mengambil nilai variabel dari keyboards.
 
+kita bisa menggunakan sintaks berikut untuk memasukan nilai pada variabel a\
+`  a = input ("masukan nilai ")  `\
+maka setelan teks **masukan nilai** akan diminta input keyboard.
 
 \
 kita akan gunakan sintaks berikut pada latihan ke 3:
@@ -111,5 +115,7 @@ print("Hasil pembagian {1} / {0} = %d".format(a,b)  %(a/b))
 
 
 hasilnya akan seperti ini
+
+\
 ![Latihan 3 - Menggunakan fungsi input](/Screenshot/SS-Latihan%203-0.png)
 
